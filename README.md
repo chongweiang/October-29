@@ -7,4 +7,4 @@ let's try this out
 * this is list item 1
 * this is item 2
 
-![](images.jpeg)
+![](sentosa.jpeg)
