@@ -8,4 +8,5 @@ let's try this out
 * this is item 2
 
 ![](Sentosa.jpeg)
-![](Test Upload.docx)
+
+[Test Upload.docx](https://github.com/chongweiang/October-29/files/9902783/Test.Upload.docx)
