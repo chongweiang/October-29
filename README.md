@@ -8,3 +8,4 @@ let's try this out
 * this is item 2
 
 ![](Sentosa.jpeg)
+![](Test Upload.docx)
